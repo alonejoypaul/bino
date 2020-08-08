@@ -1,0 +1,470 @@
+@media only screen and (min-width:1920px) {
+    .serviceImG {
+        -webkit-background-size: contain;
+        background-size: contain;
+    }
+    .singleMember.member2 {
+        margin-top: 66px;
+    }
+    .singleMember.member3 {
+        margin-top: 65px;
+    }
+    .singleMember.member4 {
+        margin-top: 101px;
+    }
+    .singleMember.member5 {
+        margin-top: 90px;
+    }
+}
+
+
+/*medium screen*/
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    ul#nav li {
+        display: inline;
+        margin-left: 17px;
+    }
+    a.BrowsWork {
+        margin-top: 5px;
+    }
+    .serviceList {
+        padding: 30px 0px 0px 10px;
+    }
+    .hoverPortfolio {
+        padding: 40px 20px;
+    }
+    .hoverPortfolio h3 {
+        font-size: 18px;
+    }
+    .singleCount {
+        margin-right: 20px;
+        width: 178px;
+    }
+    .singleMember {
+        width: 188px;
+    }
+    .singleMember.member1 {
+        margin-top: 134px;
+    }
+    .singleMember.member2 {
+        margin-top: 77px;
+    }
+    .singleMember.member3 {
+        margin-top: 37px;
+    }
+    .singleMember.member4 {
+        margin-top: 17px;
+    }
+    .singleMember.member5 {
+        margin-top: 25px;
+    }
+    .greatArea .sectionTitle h1 {
+        font-size: 29px;
+    }
+    footer .sectionTitle h1 {
+        color: #fff;
+        font-size: 29px;
+    }
+    .blogContent {
+        padding: 50px 25px;
+    }
+    /*medium*/
+}
+
+
+/*teblet screen*/
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {}
+    #responsive-menu-button {
+        display: block;
+    }
+    .menu {
+        display: none;
+    }
+    .col-md-8.col-md-offset-2.col-sm-9 > div a {
+        background: red none repeat scroll 0 0;
+        color: white;
+        float: right;
+        font-size: 30px;
+        font-weight: 700;
+        height: 90px;
+        line-height: 90px;
+        padding: 0 10px;
+        width: auto;
+    }
+    .is-sticky .col-md-8.col-md-offset-2.col-sm-9 > div a {
+        height: 80px;
+        line-height: 80px;
+    }
+    .sidr ul li a {
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .welcomContent h1 {
+        font-size: 30px;
+    }
+    .welcomContent h5 {
+        font-size: 17px;
+    }
+    .barCircle::before {
+        left: 43%;
+    }
+    .barCircle::after {
+        right: 43%;
+    }
+    .welcomeP {
+        padding: 0 70px;
+    }
+    .HistoryContent > h1 {
+        margin-bottom: 20px;
+    }
+    .HistoryContent p {
+        margin-bottom: 20px;
+    }
+    a.BrowsWork {
+        margin-top: 20px;
+    }
+    .serviceList {
+        padding: 46px 0;
+    }
+    .SingleSerVice {
+        margin-bottom: 40px;
+    }
+    .portfolioImg {
+        width: 33.33%;
+    }
+    .hoverPortfolio {
+        padding: 26px 14px;
+    }
+    .hoverPortfolio h3 {
+        font-size: 20px;
+    }
+    .hoverPortfolio h3::before {
+        height: 28px;
+    }
+    .hoverPortfolio h3::after {
+        height: 28px;
+    }
+    .CaseStudio {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+    .singleCase > h4 {
+        font-size: 17px;
+    }
+    .singleCount h5 {
+        font-size: 25px;
+    }
+    .singleCount {
+        font-size: 16px;
+        margin-right: 20px;
+        width: 134px;
+    }
+    .singleMember {
+        width: 144px;
+    }
+    .singleMember.member1 {
+        margin-top: 115px;
+    }
+    .singleMember.member2 {
+        margin-top: 70px;
+    }
+    .singleMember.member3 {
+        margin-top: 38px;
+    }
+    .singleMember.member4 {
+        margin-top: 17px;
+    }
+    .singleMember.member5 {
+        margin-top: 10px;
+    }
+    .sectionTitle {
+        padding: 50px 0;
+    }
+    .blogContent {
+        background: #e74e3e none repeat scroll 0 0;
+        color: #fff;
+        padding: 55px 10px;
+        position: relative;
+    }
+    .singleBlog.blogContent > h4 {
+        font-size: 20px;
+    }
+    .addressArea {
+        margin-bottom: 50px;
+    }
+    /*end of 991 screen*/
+}
+
+
+/*mobile screen*/
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+    .container {}
+    #responsive-menu-button {
+        display: block;
+    }
+    .displayTable {
+        height: auto;
+        left: 0;
+        margin-top: 164px;
+        top: 0;
+        width: 100%;
+        display: block;
+    }
+    .displayTableCell {
+        display: block;
+        vertical-align: middle;
+    }
+    .menu {
+        display: none;
+    }
+    .col-md-8.col-md-offset-2.col-sm-9 > div a {
+        background: red none repeat scroll 0 0;
+        color: white;
+        float: right;
+        font-size: 30px;
+        font-weight: 700;
+        height: 90px;
+        line-height: 90px;
+        padding: 0 10px;
+        width: auto;
+    }
+    .is-sticky .col-md-8.col-md-offset-2.col-sm-9 > div a {
+        height: 80px;
+        line-height: 80px;
+    }
+    .sidr ul li a {
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .homeSlider .owl-next {
+        font-size: 30px;
+        height: 50px;
+        padding: 5px;
+        top: 35%;
+        width: 25px;
+    }
+    .homeSlider .owl-prev {
+        font-size: 30px;
+        height: 50px;
+        padding: 5px;
+        top: 35%;
+        width: 25px;
+    }
+    .welcomContent a.getStart {
+        height: auto;
+        line-height: 30px;
+        padding: 0 18px;
+        width: auto;
+    }
+    .welcomContent a.getStart.active {
+        margin-right: 10px;
+    }
+    .welcomContent h1 {
+        font-size: 19px;
+    }
+    .barCircle::before {
+        width: 40px;
+    }
+    .barCircle::after {
+        width: 40px;
+    }
+    .welcomContent h5 {
+        font-size: 12px;
+    }
+    .barCircle::before {
+        left: 43%;
+    }
+    .barCircle::after {
+        right: 43%;
+    }
+    .welcomeP {
+        padding: 0 20px;
+    }
+    .singleService i {
+        font-size: 20px;
+        height: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+        transform: scale(1.1);
+        transition: all 0.4s ease 0s;
+        width: 35px;
+        position: relative
+    }
+    .serviceActive i {
+        border: 3px dotted red;
+        transform: rotate(116deg);
+    }
+    .singleService h4 {
+        font-size: 17px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+    .HistoryContent > h1 {
+        margin-bottom: 20px;
+    }
+    .HistoryContent p {
+        margin-bottom: 20px;
+    }
+    a.BrowsWork {
+        margin-top: 20px;
+    }
+    div.singleService {
+        margin-bottom: 50px;
+    }
+    .HistoryImg {
+        height: 400px;
+        margin-bottom: 50px;
+    }
+    .HistoryImg > img {
+        height: 100%;
+        width: 100%;
+    }
+    .serviceList.text-right > h1 {
+        font-size: 20px;
+        margin-bottom: 38px;
+    }
+    .SingleSerVice {
+        margin-bottom: 38px;
+    }
+    .serviceList.text-right {
+        width: 90%;
+    }
+    .serviceImG {
+        display: none;
+    }
+    .serviceList {
+        padding: 10px 0;
+    }
+    .sectionTitle {
+        padding: 50px 0;
+    }
+    .sectionTitle h1 {
+        font-size: 30px;
+    }
+    .IsotopNav ul li {
+        margin-right: 10px;
+        padding-right: 10px;
+        margin-bottom: 10px
+    }
+    .portfolioImg {
+        width: 50%;
+    }
+    .hoverPortfolio {
+        padding: 20px 10%;
+        font-size: 12px;
+    }
+    .hoverPortfolio h3 {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    .hoverPortfolio h3::before {
+        height: 22px;
+    }
+    .hoverPortfolio h3::after {
+        height: 22px;
+    }
+    .caseStudio {
+        height: 600px;
+        margin-bottom: 0;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+    .CaseSlidrSingle {
+        width: 100%;
+        top: 0;
+    }
+    .CaseImg > .CaseBG {
+        display: none;
+    }
+    .singleCase > h4 {
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    .CaseSlider {
+        padding: 0 50px;
+    }
+    .CountList {
+        padding: 46px 0;
+    }
+    .singleCount {
+        margin-right: 20px;
+        width: 43%;
+        margin-bottom: 20px
+    }
+    .singleCount i {
+        height: 50px;
+        line-height: 50px;
+        width: 50px;
+    }
+    .singleCount {
+        font-size: 14px;
+    }
+    .singleCount h5 {
+        font-size: 25px;
+    }
+    .singleTable {
+        margin-bottom: 50px;
+    }
+    .teamArea {
+        height: 980px;
+        margin: 30px 0;
+    }
+    .singleMember {
+        display: block;
+        margin-bottom: 10px;
+        margin-left: 8px;
+        width: 100%;
+    }
+    .singleMember.member1 {
+        margin-top: 0;
+    }
+    .singleMember.member2 {
+        margin-top: 0;
+    }
+    .singleMember.member3 {
+        margin-top: 0;
+    }
+    .singleMember.member4 {
+        margin-top: 0;
+    }
+    .singleMember.member5 {
+        margin-top: 0;
+    }
+    .memberDetails h4 {
+        font-size: 13px;
+    }
+    .memberDetails {
+        font-size: 11px;
+    }
+    .teamArea::before {
+        display: none;
+    }
+    .singleBlog {
+        margin-bottom: 30px;
+        width: 50%;
+    }
+    .blogContent {
+        padding: 15px 10px;
+    }
+    .singleBlog.blogContent > h4 {
+        font-size: 17px;
+        font-weight: 600;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    .addressArea {
+        padding: 70px 20px;
+    }
+    footer .sectionTitle h1 {
+        font-size: 15px;
+    }
+    footer .sectionTitle p {
+        font-size: 12px;
+    }
+}
